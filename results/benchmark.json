@@ -1,0 +1,267 @@
+{
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.41",
+  "cpu": "",
+  "cpu_max": "400000 100000",
+  "hmax": 8,
+  "files": 8,
+  "results": [
+    {
+      "wall_s": 0.8122845999999981,
+      "cpu_s": 0.8068409999999999,
+      "cpu_percent": 99.32984079717893,
+      "peak_tree_rss_mib": 1.3203125,
+      "language": "goose",
+      "workers": 1,
+      "repeat": 0
+    },
+    {
+      "wall_s": 0.9003936699999713,
+      "cpu_s": 0.8983059999999999,
+      "cpu_percent": 99.76813808564742,
+      "peak_tree_rss_mib": 1.3203125,
+      "language": "goose",
+      "workers": 1,
+      "repeat": 1
+    },
+    {
+      "wall_s": 0.9002250570000001,
+      "cpu_s": 0.8979739999999999,
+      "cpu_percent": 99.74994508512107,
+      "peak_tree_rss_mib": 1.31640625,
+      "language": "goose",
+      "workers": 1,
+      "repeat": 2
+    },
+    {
+      "wall_s": 0.6896392599999785,
+      "cpu_s": 0.6852389999999999,
+      "cpu_percent": 99.36194757821956,
+      "peak_tree_rss_mib": 1.5234375,
+      "language": "rust",
+      "workers": 1,
+      "repeat": 0
+    },
+    {
+      "wall_s": 0.6937364480000383,
+      "cpu_s": 0.687179,
+      "cpu_percent": 99.05476380562926,
+      "peak_tree_rss_mib": 1.5234375,
+      "language": "rust",
+      "workers": 1,
+      "repeat": 1
+    },
+    {
+      "wall_s": 0.7302890860000275,
+      "cpu_s": 0.7249979999999999,
+      "cpu_percent": 99.2754806142581,
+      "peak_tree_rss_mib": 1.5234375,
+      "language": "rust",
+      "workers": 1,
+      "repeat": 2
+    },
+    {
+      "wall_s": 6.391465289999985,
+      "cpu_s": 6.392977,
+      "cpu_percent": 100.023652009851,
+      "peak_tree_rss_mib": 23.05078125,
+      "language": "python",
+      "workers": 1,
+      "repeat": 0
+    },
+    {
+      "wall_s": 6.278905263000013,
+      "cpu_s": 6.279781,
+      "cpu_percent": 100.01394728799538,
+      "peak_tree_rss_mib": 23.05859375,
+      "language": "python",
+      "workers": 1,
+      "repeat": 1
+    },
+    {
+      "wall_s": 6.788133280000011,
+      "cpu_s": 6.789034999999999,
+      "cpu_percent": 100.01328376981996,
+      "peak_tree_rss_mib": 23.05078125,
+      "language": "python",
+      "workers": 1,
+      "repeat": 2
+    },
+    {
+      "wall_s": 0.9869541409999556,
+      "cpu_s": 0.9892859999999999,
+      "cpu_percent": 100.2362682219137,
+      "peak_tree_rss_mib": 45.07421875,
+      "language": "numpy",
+      "workers": 1,
+      "repeat": 0
+    },
+    {
+      "wall_s": 1.0076843069999768,
+      "cpu_s": 1.009908,
+      "cpu_percent": 100.22067357649377,
+      "peak_tree_rss_mib": 45.08984375,
+      "language": "numpy",
+      "workers": 1,
+      "repeat": 1
+    },
+    {
+      "wall_s": 1.0032857159999935,
+      "cpu_s": 1.007719,
+      "cpu_percent": 100.44187651925132,
+      "peak_tree_rss_mib": 45.06640625,
+      "language": "numpy",
+      "workers": 1,
+      "repeat": 2
+    },
+    {
+      "wall_s": 0.33400228700003254,
+      "cpu_s": 0.928117,
+      "cpu_percent": 277.8774386056553,
+      "peak_tree_rss_mib": 1.98828125,
+      "language": "goose",
+      "workers": 4,
+      "repeat": 0
+    },
+    {
+      "wall_s": 0.38821060899999793,
+      "cpu_s": 1.0785040000000001,
+      "cpu_percent": 277.81414907185234,
+      "peak_tree_rss_mib": 1.98828125,
+      "language": "goose",
+      "workers": 4,
+      "repeat": 1
+    },
+    {
+      "wall_s": 0.3342238100000259,
+      "cpu_s": 0.90643,
+      "cpu_percent": 271.20449617276813,
+      "peak_tree_rss_mib": 1.9765625,
+      "language": "goose",
+      "workers": 4,
+      "repeat": 2
+    },
+    {
+      "wall_s": 0.27439944599996124,
+      "cpu_s": 0.777689,
+      "cpu_percent": 283.4149308013216,
+      "peak_tree_rss_mib": 1.8828125,
+      "language": "rust",
+      "workers": 4,
+      "repeat": 0
+    },
+    {
+      "wall_s": 0.25276670900001363,
+      "cpu_s": 0.697861,
+      "cpu_percent": 276.0889686623891,
+      "peak_tree_rss_mib": 1.8828125,
+      "language": "rust",
+      "workers": 4,
+      "repeat": 1
+    },
+    {
+      "wall_s": 0.27484400299999834,
+      "cpu_s": 0.73166,
+      "cpu_percent": 266.209192128527,
+      "peak_tree_rss_mib": 1.875,
+      "language": "rust",
+      "workers": 4,
+      "repeat": 2
+    },
+    {
+      "wall_s": 2.531954245999998,
+      "cpu_s": 7.0353520000000005,
+      "cpu_percent": 277.86252500867687,
+      "peak_tree_rss_mib": 53.33203125,
+      "language": "python",
+      "workers": 4,
+      "repeat": 0
+    },
+    {
+      "wall_s": 2.505313108999985,
+      "cpu_s": 7.270446000000001,
+      "cpu_percent": 290.2010919865443,
+      "peak_tree_rss_mib": 53.3359375,
+      "language": "python",
+      "workers": 4,
+      "repeat": 1
+    },
+    {
+      "wall_s": 2.628930818000015,
+      "cpu_s": 7.588315,
+      "cpu_percent": 288.6464317753666,
+      "peak_tree_rss_mib": 53.328125,
+      "language": "python",
+      "workers": 4,
+      "repeat": 2
+    },
+    {
+      "wall_s": 0.41637559999998075,
+      "cpu_s": 1.020203,
+      "cpu_percent": 245.01988108814425,
+      "peak_tree_rss_mib": 107.0703125,
+      "language": "numpy",
+      "workers": 4,
+      "repeat": 0
+    },
+    {
+      "wall_s": 0.46008381100000406,
+      "cpu_s": 1.095479,
+      "cpu_percent": 238.10422662317725,
+      "peak_tree_rss_mib": 107.07421875,
+      "language": "numpy",
+      "workers": 4,
+      "repeat": 1
+    },
+    {
+      "wall_s": 0.404901609000035,
+      "cpu_s": 1.012729,
+      "cpu_percent": 250.1173068936637,
+      "peak_tree_rss_mib": 107.08984375,
+      "language": "numpy",
+      "workers": 4,
+      "repeat": 2
+    }
+  ],
+  "inputs": [
+    {
+      "path": "data/CsCl_5x5x5.cif",
+      "sha256": "d3207fcf915c6079b1faf206c2889b37f4b09442c5ed3cdf187854a360cc7473",
+      "atoms": 250
+    },
+    {
+      "path": "data/CsCl_6x6x6.cif",
+      "sha256": "fde4d64a7e63b532911d9c5ab3ea0365d13aa8c89cd0368ed108bfd38dd582a4",
+      "atoms": 432
+    },
+    {
+      "path": "data/NaCl_5x5x5.cif",
+      "sha256": "422ec161cb79e9737486bd283d29a24536027d7447aef286a9e23c3eea259ae0",
+      "atoms": 1000
+    },
+    {
+      "path": "data/NaCl_6x6x6.cif",
+      "sha256": "19c87b289ae928a8e26975f1758383645b3d60310f3d81343b860526be558d50",
+      "atoms": 1728
+    },
+    {
+      "path": "data/SrTiO3_5x5x5.cif",
+      "sha256": "17553802b3a73699804139a4e0469cf502025bf62be74507e7546bc6eac99e05",
+      "atoms": 625
+    },
+    {
+      "path": "data/SrTiO3_6x6x6.cif",
+      "sha256": "9920f0110f8c11baefef43d69582d0da6c0051628ffb2b7b05f743dbed6e54f7",
+      "atoms": 1080
+    },
+    {
+      "path": "data/diamond_5x5x5.cif",
+      "sha256": "bfe8a120bca8462e43cb76aa0c0d97c3a90b2611c1aace5ade1dc68a0bd7b717",
+      "atoms": 1000
+    },
+    {
+      "path": "data/diamond_6x6x6.cif",
+      "sha256": "dc35a945e436f940ef7581161539bcb7218cd0d7151be9c9fddb5070fba89c9c",
+      "atoms": 1728
+    }
+  ]
+}

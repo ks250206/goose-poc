@@ -1,0 +1,8 @@
+.venv/
+.tools/
+data/*.cif
+src/sf
+src/sf-rust
+src/*.c
+__pycache__/
+results/last.*
