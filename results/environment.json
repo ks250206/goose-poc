@@ -1,0 +1,9 @@
+{
+  "goose_commit": "64d62fc7f148eadaed9b1c69be0c33d1da97c82f",
+  "goose_backend": "GCC 14.2.0 -O2 (goose build default)",
+  "rust": "rustc 1.99.1, -C opt-level=2, edition 2021",
+  "python": "CPython 3.12.14",
+  "cpu": "AMD EPYC 9V74 (virtualized), cpu.max 400000 100000",
+  "libraries": "see requirements.txt",
+  "inputs": "scripts/generate_known.py: 8 files, 7843 atoms total, textbook ideal cells"
+}
